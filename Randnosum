@@ -1,0 +1,9 @@
+a=30
+
+while (1){
+b=random(40)
+showpwm(a)
+showpwm(b)
+
+show pwm(a+b)
+turn off 1 ms}
