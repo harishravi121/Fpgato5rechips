@@ -1,4 +1,4 @@
-//adds
+//adds. How would you make fpga of this and miniaturize to 5 re 1 billion
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(1, OUTPUT);
